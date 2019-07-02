@@ -1,6 +1,7 @@
 # 糖尿病知识图谱数据
 ## 一、数据来源
-该数据来源于天池竞赛平台，链接地址：https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281978.0.0.7592412fAyjFC6&dataId=22288
+该数据来源于天池竞赛平台，链接地址：https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281978.0.0.7592412fAyjFC6&dataId=22288 
+要获取原始数据请到天池平台下载。
 
 ## 实体类型有：
 * 疾病相关：
